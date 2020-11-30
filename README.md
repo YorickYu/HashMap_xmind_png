@@ -2,7 +2,7 @@
 
 202011.08 更新：JDK1.8HashMap变树阈值
 
-![HashMap](https://github.com/YorickYu/HashMap_xmind_png/blob/main/images/HashMap_xmind2.0.png)
+![HashMap](https://github.com/YorickYu/Java_HashMap_summary/blob/main/images/HashMap_xmind2.0.png)
 
 ---
 
